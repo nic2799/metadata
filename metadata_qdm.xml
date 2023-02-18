@@ -1,0 +1,22 @@
+<root>
+  <record>
+    <header>
+      <identifier>10.1016/j.medengphy.2010.07.005</identifier>
+      <datestamp>2011-01-10</datestamp>
+      <setSpec>medengphy</setSpec>
+    </header>
+    <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+        <a>Computational study of the effects of positioning errors on the accuracy of dosimetry in radiofrequency ablation</a>
+        <d>Berenguer, A</d>
+        <b>Radiofrequency ablation, Dosimetry, Computational study, Positioning errors, Accuracy</b>
+        <dc:description>Radiofrequency ablation is a minimally invasive procedure used to treat cancer by heating and destroying tissue. Dosimetry is crucial in this procedure as it determines the energy delivered to the tissue and the size of the lesion created. This study evaluates the effect of positioning errors on the accuracy of dosimetry in radiofrequency ablation. Results show that positioning errors can significantly affect the accuracy of dosimetry, highlighting the importance of careful placement of the electrodes.</dc:description>
+        <dc:publisher>Elsevier</dc:publisher>
+        <dc:date>2010-10-01</dc:date>
+        <dc:type>Journal article</dc:type>
+        <dc:format>text/html</dc:format>
+        <dc:identifier>https://doi.org/10.1016/j.medengphy.2010.07.005</dc:identifier>
+      </oai_dc:dc>
+    </metadata>
+  </record>
+</root>

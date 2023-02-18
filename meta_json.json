@@ -1,0 +1,1265 @@
+{
+    "apikey": "ncitypro",
+    "success": true,
+    "statsDuration": 501,
+    "requestNumber": 999,
+    "object": {
+        "about": "/9200211/en_list_one_bke_0138",
+        "agents": [
+            {
+                "about": "http://data.europeana.eu/agent/171259",
+                "prefLabel": {
+                    "de": [
+                        "Augustinus von Hippo"
+                    ],
+                    "ru": [
+                        "Аврелий Августин"
+                    ],
+                    "fi": [
+                        "Augustinus"
+                    ],
+                    "pt": [
+                        "Agostinho de Hipona"
+                    ],
+                    "bg": [
+                        "Августин Блажени"
+                    ],
+                    "lt": [
+                        "Šv. Augustinas"
+                    ],
+                    "lv": [
+                        "Svētais Augustīns"
+                    ],
+                    "hr": [
+                        "Sveti Augustin"
+                    ],
+                    "fr": [
+                        "Augustin d'Hippone"
+                    ],
+                    "hu": [
+                        "Hippói Szent Ágoston"
+                    ],
+                    "sk": [
+                        "Augustín z Hippa"
+                    ],
+                    "sl": [
+                        "Avguštin iz Hipona"
+                    ],
+                    "ga": [
+                        "Naomh Agaistín"
+                    ],
+                    "ca": [
+                        "Agustí d'Hipona"
+                    ],
+                    "sv": [
+                        "Augustinus"
+                    ],
+                    "mt": [
+                        "Santu Wistin"
+                    ],
+                    "el": [
+                        "Αυγουστίνος Ιππώνος"
+                    ],
+                    "en": [
+                        "Augustine of Hippo"
+                    ],
+                    "it": [
+                        "Agostino d'Ippona"
+                    ],
+                    "es": [
+                        "Agustín de Hipona"
+                    ],
+                    "et": [
+                        "Augustinus"
+                    ],
+                    "cs": [
+                        "Svatý Augustin"
+                    ],
+                    "pl": [
+                        "Augustyn z Hippony"
+                    ],
+                    "ro": [
+                        "Augustin de Hipona"
+                    ],
+                    "da": [
+                        "Augustin"
+                    ],
+                    "nl": [
+                        "Augustinus van Hippo"
+                    ]
+                },
+                "altLabel": {
+                    "de": [
+                        "Augustinus, Aurelius"
+                    ],
+                    "sv": [
+                        "Aurelius Augustinus"
+                    ],
+                    "pt": [
+                        "Aurélio Agostinho",
+                        "Santo Agostinho",
+                        "Agostinho"
+                    ],
+                    "el": [
+                        "Άγιος Αυγουστίνος"
+                    ],
+                    "en": [
+                        "Saint Augustine",
+                        "Saint Austin",
+                        "Augustine",
+                        "St. Augoustinos",
+                        "St. Augustine of Hippo",
+                        "Aurelius Augustinus",
+                        "Aurelius Augustine",
+                        "Aurelius Augustinus Hipponensis",
+                        "St. Augustine",
+                        "Augustinus",
+                        "Saint Augustine of Hippo",
+                        "Augustinus, Aurelius"
+                    ],
+                    "it": [
+                        "Sant'Agostino"
+                    ],
+                    "fr": [
+                        "Augustin, saint, évêque d'Hippone",
+                        "Augustin (saint ; 0354-0430)",
+                        "Augustin, Saint",
+                        "Saint Augustin"
+                    ],
+                    "es": [
+                        "San Agustin de Hipona",
+                        "San Agustín"
+                    ],
+                    "cs": [
+                        "Augustin z Hippa",
+                        "Augustin z Hippony",
+                        "Aurelius Augustinus",
+                        "Učitel Západu",
+                        "Aurelius Augustinus Hipponens",
+                        "Aurelius Augustine",
+                        "Doctor Gratiae (Učitel milosti)",
+                        "Augustyn z Hippony",
+                        "Augustin z Hippo",
+                        "Biskup Augustin",
+                        "Svatý Aurelius Augustinus",
+                        "Augustinus Aurelius"
+                    ],
+                    "sl": [
+                        "Avguštin Hiponski",
+                        "Sveti Avguštin"
+                    ],
+                    "pl": [
+                        "Święty Augustyn",
+                        "Św. Augustyn",
+                        "Św. Augustyn z Hippony",
+                        "Święty Augustyn z Hippony"
+                    ],
+                    "ro": [
+                        "Augustinus, Aurelius"
+                    ],
+                    "da": [
+                        "Sankt Augustin"
+                    ],
+                    "nl": [
+                        "Sint-Augustinus"
+                    ]
+                },
+                "note": {
+                    "de": [
+                        "Lateinischer Kirchenlehrer der Spätantike, Heiliger"
+                    ],
+                    "fi": [
+                        "Varhaiskristillinen piispa ja kirkkoisä"
+                    ],
+                    "ru": [
+                        "Епископ Гиппонский, философ, влиятельнейший проповедник, христианский богослов и политик"
+                    ],
+                    "pt": [
+                        "Bispo, teólogo e filósofo cristão"
+                    ],
+                    "en": [
+                        "Early Christian theologian, philosopher and Church Father"
+                    ],
+                    "it": [
+                        "Filosofo, vescovo, teologo e santo cristiano, berbero con cittadinanza romana"
+                    ],
+                    "fr": [
+                        "Théologien et philosophe chrétien d'Afrique du Nord"
+                    ],
+                    "es": [
+                        "Filósofo, teólogo y obispo romano"
+                    ],
+                    "cs": [
+                        "Světec, biskup, teolog a filozof, Učitel církve (doctor ecclesiae), Doctor Gratiae (Učitel milosti)"
+                    ],
+                    "sk": [
+                        "Biskup hippský, svätec a Učiteľ Cirkvi"
+                    ],
+                    "pl": [
+                        "Wczesnochrześcijański biskup i teolog"
+                    ],
+                    "ro": [
+                        "Episcop, filozof, teolog, doctor al Bisericii"
+                    ],
+                    "ca": [
+                        "Filòsof cristià i pare de l'Església"
+                    ],
+                    "nl": [
+                        "Bisschop, theoloog, filosoof en kerkvader (354-430)"
+                    ]
+                },
+                "edmIsRelatedTo": {
+                    "def": [
+                        "http://data.europeana.eu/agent/166964"
+                    ]
+                },
+                "owlSameAs": [
+                    "http://viaf.org/viaf/66806872",
+                    "http://viaf.org/viaf/7045161274833147650005",
+                    "http://d-nb.info/gnd/118505114",
+                    "http://id.loc.gov/authorities/names/n80126290",
+                    "http://vocab.getty.edu/ulan/500104317",
+                    "http://data.bnf.fr/ark:/12148/cb11889551s",
+                    "http://www.idref.fr/027280896/id",
+                    "http://id.ndl.go.jp/auth/ndlna/00431905",
+                    "https://www.freebase.com/m/0w6w",
+                    "https://g.co/kg/m/0w6w",
+                    "http://openlibrary.org/works/OL22060A",
+                    "http://libris.kb.se/resource/auth/174788",
+                    "http://datos.bne.es/resource/XX978571",
+                    "http://datos.bne.es/resource/XX840516",
+                    "http://data.bibliotheken.nl/id/thes/p068358903",
+                    "https://livedata.bibsys.no/authority/90579045",
+                    "http://iconclass.org/11H(AUGUSTINE)",
+                    "http://kulturarvsdata.se/LSH/agents/49853",
+                    "http://ta.sandrart.net/-person-1026",
+                    "http://id.worldcat.org/fast/61554",
+                    "http://data.cervantesvirtual.com/person/31857",
+                    "http://data.cervantesvirtual.com/person/30997",
+                    "http://data.cervantesvirtual.com/person/5862",
+                    "http://data.cervantesvirtual.com/person/31992",
+                    "http://data.cervantesvirtual.com/person/59568",
+                    "http://data.cervantesvirtual.com/person/67686",
+                    "http://data.cervantesvirtual.com/person/70321",
+                    "http://nlg.okfn.gr/resource/authority/record338914",
+                    "http://data.carnegiehall.org/names/1026675",
+                    "http://lod.nl.go.kr/resource/KAC199601187",
+                    "http://lod.nl.go.kr/resource/KAC2018N4258",
+                    "https://libris.kb.se/qn244qg848hwt8d",
+                    "http://dbpedia.org/resource/Augustine_of_Hippo",
+                    "http://www.wikidata.org/entity/Q8018"
+                ],
+                "rdaGr2DateOfBirth": {
+                    "def": [
+                        "0354-11-14"
+                    ]
+                },
+                "rdaGr2DateOfDeath": {
+                    "def": [
+                        "0430-08-29"
+                    ]
+                },
+                "rdaGr2ProfessionOrOccupation": {
+                    "def": [
+                        "http://data.europeana.eu/concept/2962",
+                        "http://data.europeana.eu/concept/2939",
+                        "http://data.europeana.eu/concept/2954",
+                        "http://data.europeana.eu/concept/2966",
+                        "http://data.europeana.eu/concept/2968"
+                    ]
+                }
+            }
+        ],
+        "aggregations": [
+            {
+                "about": "/aggregation/provider/9200211/en_list_one_bke_0138",
+                "edmDataProvider": {
+                    "def": [
+                        "http://data.europeana.eu/organization/1482250000004502183"
+                    ]
+                },
+                "edmIsShownBy": "http://www.e-codices.unifr.ch/loris/bke/bke-0138/bke-0138_001r.jp2/full/full/0/default.jpg",
+                "edmIsShownAt": "http://www.e-codices.unifr.ch/en/list/one/bke/0138",
+                "edmObject": "http://www.e-codices.unifr.ch/loris/bke/bke-0138/bke-0138_001r.jp2/full/full/0/default.jpg",
+                "edmProvider": {
+                    "def": [
+                        "http://data.europeana.eu/organization/1482250000004671163"
+                    ]
+                },
+                "edmRights": {
+                    "def": [
+                        "http://creativecommons.org/licenses/by-nc/3.0/"
+                    ]
+                },
+                "edmUgc": "false",
+                "aggregatedCHO": "/item/9200211/en_list_one_bke_0138",
+                "webResources": [
+                    {
+                        "about": "http://www.e-codices.unifr.ch/en/list/one/bke/0138",
+                        "textAttributionSnippet": "Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia - https://www.europeana.eu/item/9200211/en_list_one_bke_0138. Augustine of Hippo. E-codices - Virtual Manuscript Library of Switzerland - http://www.e-codices.unifr.ch/en/list/one/bke/0138. CC BY-NC - http://creativecommons.org/licenses/by-nc/3.0/",
+                        "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200211/en_list_one_bke_0138' target='_blank' rel='noopener'>Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia</a></dd><dt>Creator</dt><dd lang=''>Augustine of Hippo</dd><dt>Institution</dt><dd lang=''><a href='http://www.e-codices.unifr.ch/en/list/one/bke/0138' target='_blank' rel='noopener'>E-codices - Virtual Manuscript Library of Switzerland</a></dd><dt>Country</dt><dd lang=''>Switzerland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/>CC BY-NC</a></dd></dl>",
+                        "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+                        "ebucoreHasMimeType": "text/html",
+                        "ebucoreFileByteSize": 50646
+                    },
+                    {
+                        "about": "http://www.e-codices.unifr.ch/loris/bke/bke-0138/bke-0138_001r.jp2/full/full/0/default.jpg",
+                        "textAttributionSnippet": "Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia - https://www.europeana.eu/item/9200211/en_list_one_bke_0138. Augustine of Hippo. E-codices - Virtual Manuscript Library of Switzerland - http://www.e-codices.unifr.ch/en/list/one/bke/0138. CC BY-NC - http://creativecommons.org/licenses/by-nc/3.0/",
+                        "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200211/en_list_one_bke_0138' target='_blank' rel='noopener'>Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia</a></dd><dt>Creator</dt><dd lang=''>Augustine of Hippo</dd><dt>Institution</dt><dd lang=''><a href='http://www.e-codices.unifr.ch/en/list/one/bke/0138' target='_blank' rel='noopener'>E-codices - Virtual Manuscript Library of Switzerland</a></dd><dt>Country</dt><dd lang=''>Switzerland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/>CC BY-NC</a></dd></dl>",
+                        "svcsHasService": [
+                            "http://www.e-codices.unifr.ch/loris/bke/bke-0138/bke-0138_001r.jp2"
+                        ],
+                        "dctermsIsReferencedBy": [
+                            "http://www.e-codices.unifr.ch/metadata/iiif/bke-0138/manifest.json"
+                        ],
+                        "ebucoreHasMimeType": "image/jpeg",
+                        "ebucoreFileByteSize": 5978269,
+                        "ebucoreWidth": 4872,
+                        "ebucoreHeight": 6496,
+                        "edmHasColorSpace": "sRGB",
+                        "edmComponentColor": [
+                            "#F5DEB3",
+                            "#C0C0C0",
+                            "#D3D3D3",
+                            "#000000",
+                            "#D2B48C",
+                            "#DCDCDC"
+                        ],
+                        "ebucoreOrientation": "portrait"
+                    },
+                    {
+                        "about": "http://www.e-codices.unifr.ch/loris/bke/bke-0838/bke-0838_008r.jp2/full/,800/0/default.jpg",
+                        "textAttributionSnippet": "Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia - https://www.europeana.eu/item/9200211/en_list_one_bke_0138. Augustine of Hippo. E-codices - Virtual Manuscript Library of Switzerland - http://www.e-codices.unifr.ch/en/list/one/bke/0138. CC BY-NC - http://creativecommons.org/licenses/by-nc/3.0/",
+                        "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200211/en_list_one_bke_0138' target='_blank' rel='noopener'>Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia</a></dd><dt>Creator</dt><dd lang=''>Augustine of Hippo</dd><dt>Institution</dt><dd lang=''><a href='http://www.e-codices.unifr.ch/en/list/one/bke/0138' target='_blank' rel='noopener'>E-codices - Virtual Manuscript Library of Switzerland</a></dd><dt>Country</dt><dd lang=''>Switzerland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/>CC BY-NC</a></dd></dl>"
+                    }
+                ]
+            }
+        ],
+        "concepts": [
+            {
+                "about": "http://data.europeana.eu/concept/2092",
+                "prefLabel": {
+                    "de": [
+                        "Pergament"
+                    ],
+                    "fi": [
+                        "Pergamentti"
+                    ],
+                    "ru": [
+                        "Пергамент"
+                    ],
+                    "pt": [
+                        "Pergaminho"
+                    ],
+                    "bg": [
+                        "Пергамент"
+                    ],
+                    "lt": [
+                        "Pergamentas"
+                    ],
+                    "lv": [
+                        "Pergaments"
+                    ],
+                    "hr": [
+                        "Pergament"
+                    ],
+                    "fr": [
+                        "Parchemin"
+                    ],
+                    "hu": [
+                        "Pergamen"
+                    ],
+                    "sk": [
+                        "Pergamen"
+                    ],
+                    "sl": [
+                        "Pergament"
+                    ],
+                    "ga": [
+                        "Pár"
+                    ],
+                    "ca": [
+                        "Pergamí"
+                    ],
+                    "sv": [
+                        "Pergament"
+                    ],
+                    "el": [
+                        "Περγαμηνή"
+                    ],
+                    "en": [
+                        "Parchment"
+                    ],
+                    "it": [
+                        "Pergamena"
+                    ],
+                    "es": [
+                        "Pergamino"
+                    ],
+                    "et": [
+                        "Pärgament"
+                    ],
+                    "cs": [
+                        "Pergamen"
+                    ],
+                    "eu": [
+                        "Pergamino"
+                    ],
+                    "pl": [
+                        "Pergamin"
+                    ],
+                    "ro": [
+                        "Pergament"
+                    ],
+                    "da": [
+                        "Pergament"
+                    ],
+                    "nl": [
+                        "Perkament"
+                    ]
+                },
+                "note": {
+                    "cs": [
+                        "Zvířecí kůže upravená na psaní"
+                    ],
+                    "de": [
+                        "Beschreibmaterial"
+                    ],
+                    "ru": [
+                        "Материал для письма из недублёной сыромятной кожи животных"
+                    ],
+                    "en": [
+                        "Animal skin processed for writing or painting on"
+                    ],
+                    "lv": [
+                        "No dzīvnieku ādas veidots materiāls, uz kura rakstīja"
+                    ],
+                    "it": [
+                        "Membrana ricavata dalla pelle di animale"
+                    ],
+                    "pl": [
+                        "Podłoże pisarskie lub malarskie otrzymywane z wyprawionej skóry zwierząt"
+                    ],
+                    "fr": [
+                        "Peau d'animal travaillée pour devenir un support écrit"
+                    ],
+                    "es": [
+                        "Piel animal procesada para convertirse en un soporte escrito"
+                    ]
+                },
+                "exactMatch": [
+                    "http://www.wikidata.org/entity/Q226697",
+                    "https://d-nb.info/gnd/4173751-9",
+                    "http://id.loc.gov/authorities/names/sh85097964",
+                    "http://data.bnf.fr/ark:/12148/cb122648397",
+                    "http://id.ndl.go.jp/auth/ndlna/00574276",
+                    "http://purl.org/bncf/tid/9789",
+                    "https://www.freebase.com/m/05tdm",
+                    "https://g.co/kg/m/05tdm",
+                    "http://datos.bne.es/resource/XX554451",
+                    "http://vocab.getty.edu/aat/300011851",
+                    "http://iconclass.org/49L643",
+                    "http://id.worldcat.org/fast/1053276",
+                    "http://www.yso.fi/onto/yso/p15734",
+                    "http://babelnet.org/rdf/s00049774n",
+                    "http://thesaurus.europeanafashion.eu/thesaurus/10593"
+                ]
+            },
+            {
+                "about": "http://data.europeana.eu/concept/17",
+                "prefLabel": {
+                    "de": [
+                        "Manuskript"
+                    ],
+                    "fi": [
+                        "Käsikirjoitus"
+                    ],
+                    "ru": [
+                        "Рукопись"
+                    ],
+                    "pt": [
+                        "Manuscrito"
+                    ],
+                    "bg": [
+                        "Ръкопис"
+                    ],
+                    "lt": [
+                        "Rankraštis"
+                    ],
+                    "hr": [
+                        "Rukopis"
+                    ],
+                    "lv": [
+                        "Rokraksts"
+                    ],
+                    "fr": [
+                        "Manuscrit"
+                    ],
+                    "hu": [
+                        "Kézirat"
+                    ],
+                    "sk": [
+                        "Rukopis"
+                    ],
+                    "sl": [
+                        "Rokopis"
+                    ],
+                    "ga": [
+                        "Lámhscríbhinn"
+                    ],
+                    "ca": [
+                        "Manuscrit"
+                    ],
+                    "sv": [
+                        "Handskrift"
+                    ],
+                    "el": [
+                        "Χειρόγραφο"
+                    ],
+                    "en": [
+                        "Manuscript"
+                    ],
+                    "it": [
+                        "Manoscritto"
+                    ],
+                    "es": [
+                        "Manuscrito"
+                    ],
+                    "et": [
+                        "Käsikiri"
+                    ],
+                    "cs": [
+                        "Rukopis"
+                    ],
+                    "eu": [
+                        "Eskuizkribu"
+                    ],
+                    "pl": [
+                        "Rękopis"
+                    ],
+                    "ro": [
+                        "Manuscris"
+                    ],
+                    "da": [
+                        "Håndskrift"
+                    ],
+                    "nl": [
+                        "Manuscript"
+                    ]
+                },
+                "note": {
+                    "de": [
+                        "Handgeschriebener Text"
+                    ],
+                    "sv": [
+                        "Dokument skrivet för hand"
+                    ],
+                    "ru": [
+                        "Написанный от руки текст произведения"
+                    ],
+                    "en": [
+                        "Document written by hand"
+                    ],
+                    "lv": [
+                        "Ar roku rakstīts dokuments"
+                    ],
+                    "hr": [
+                        "Dokument pisan rukom"
+                    ],
+                    "it": [
+                        "Documento scritto a mano"
+                    ],
+                    "fr": [
+                        "Document écrit à la main"
+                    ],
+                    "es": [
+                        "Documento escrito a mano sobre un soporte flexible"
+                    ],
+                    "cs": [
+                        "Ručně psaný dokument"
+                    ],
+                    "sl": [
+                        "Besedilo napisano z roko"
+                    ],
+                    "da": [
+                        "Håndskrevent dokument"
+                    ],
+                    "ca": [
+                        "Document escrit a mà"
+                    ],
+                    "nl": [
+                        "Handgeschreven tekst"
+                    ]
+                },
+                "exactMatch": [
+                    "http://www.wikidata.org/entity/Q87167",
+                    "http://id.loc.gov/ontologies/bibframe/Manuscript",
+                    "https://schema.org/Manuscript",
+                    "https://citationstyles.org/ontology/type/manuscript",
+                    "http://purl.org/coar/resource_type/c_0040",
+                    "https://d-nb.info/gnd/4126273-6",
+                    "http://id.loc.gov/authorities/names/sh85080672",
+                    "http://id.ndl.go.jp/auth/ndlna/00571802",
+                    "http://id.nlm.nih.gov/mesh/D020486",
+                    "http://id.nlm.nih.gov/mesh/D008373",
+                    "http://purl.org/bncf/tid/1879",
+                    "https://www.freebase.com/m/04vf8",
+                    "https://g.co/kg/m/04vf8",
+                    "http://id.nlm.nih.gov/mesh/V02.630",
+                    "http://id.nlm.nih.gov/mesh/L01.178.682.608",
+                    "http://vocab.getty.edu/aat/300028569",
+                    "http://babelnet.org/rdf/s00044453n",
+                    "http://vocabularies.unesco.org/thesaurus/concept8324"
+                ]
+            }
+        ],
+        "edmDatasetName": [
+            "9200211_Ag_EU_e-Codices"
+        ],
+        "europeanaAggregation": {
+            "about": "/aggregation/europeana/9200211/en_list_one_bke_0138",
+            "aggregatedCHO": "/item/9200211/en_list_one_bke_0138",
+            "edmCountry": {
+                "def": [
+                    "Switzerland"
+                ]
+            },
+            "edmLanguage": {
+                "def": [
+                    "mul"
+                ]
+            },
+            "edmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc/3.0/"
+                ]
+            },
+            "edmPreview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.e-codices.unifr.ch%2Floris%2Fbke%2Fbke-0138%2Fbke-0138_001r.jp2%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT",
+            "edmLandingPage": "https://www.europeana.eu/item/9200211/en_list_one_bke_0138",
+            "dqvHasQualityAnnotation": [
+                "/item/9200211/en_list_one_bke_0138#contentTier",
+                "/item/9200211/en_list_one_bke_0138#metadataTier"
+            ]
+        },
+        "europeanaCollectionName": [
+            "9200211_Ag_EU_e-Codices"
+        ],
+        "europeanaCompleteness": 10,
+        "organizations": [
+            {
+                "about": "http://data.europeana.eu/organization/1482250000004502183",
+                "prefLabel": {
+                    "en": [
+                        "E-codices - Virtual Manuscript Library of Switzerland"
+                    ]
+                }
+            },
+            {
+                "about": "http://data.europeana.eu/organization/1482250000004671163",
+                "prefLabel": {
+                    "en": [
+                        "University of Fribourg"
+                    ]
+                }
+            }
+        ],
+        "places": [
+            {
+                "about": "http://data.europeana.eu/place/214338",
+                "prefLabel": {
+                    "de": [
+                        "Engelberg"
+                    ],
+                    "fi": [
+                        "Engelberg"
+                    ],
+                    "ru": [
+                        "Энгельберг"
+                    ],
+                    "sv": [
+                        "Engelberg"
+                    ],
+                    "pt": [
+                        "Engelberg"
+                    ],
+                    "el": [
+                        "Ένγκελμπεργκ"
+                    ],
+                    "lt": [
+                        "Engelbergas"
+                    ],
+                    "en": [
+                        "Engelberg"
+                    ],
+                    "it": [
+                        "Engelberg"
+                    ],
+                    "fr": [
+                        "Engelberg"
+                    ],
+                    "hu": [
+                        "Engelberg"
+                    ],
+                    "es": [
+                        "Engelberg"
+                    ],
+                    "et": [
+                        "Engelbergi vald"
+                    ],
+                    "cs": [
+                        "Engelberg"
+                    ],
+                    "pl": [
+                        "Engelberg"
+                    ],
+                    "ro": [
+                        "Engelberg"
+                    ],
+                    "ca": [
+                        "Engelberg"
+                    ],
+                    "nl": [
+                        "Engelberg"
+                    ]
+                },
+                "altLabel": {
+                    "de": [
+                        "Engelberg OW"
+                    ],
+                    "en": [
+                        "Engelberg OW",
+                        "Engelberg, Switzerland"
+                    ],
+                    "it": [
+                        "Engelberg OW"
+                    ],
+                    "et": [
+                        "Engelberg"
+                    ]
+                },
+                "note": {
+                    "cs": [
+                        "Obec v kantonu Obwalden ve Švýcarsku"
+                    ],
+                    "de": [
+                        "Gemeinde in der Schweiz"
+                    ],
+                    "sv": [
+                        "Kommun i kantonen Obwalden, Schweiz"
+                    ],
+                    "en": [
+                        "Municipality in Switzerland"
+                    ],
+                    "it": [
+                        "Comune svizzero"
+                    ],
+                    "pl": [
+                        "Szwajcarska gmina i miejscowość"
+                    ],
+                    "fr": [
+                        "Commune suisse"
+                    ],
+                    "nl": [
+                        "Gemeente in Obwalden, Zwitserland"
+                    ]
+                },
+                "isPartOf": {
+                    "def": [
+                        "http://data.europeana.eu/place/78"
+                    ]
+                },
+                "latitude": 46.820557,
+                "longitude": 8.402778,
+                "altitude": 1015.0,
+                "owlSameAs": [
+                    "http://viaf.org/viaf/870145857935423020098",
+                    "http://d-nb.info/gnd/4014751-4",
+                    "http://id.loc.gov/authorities/names/n84058729",
+                    "http://data.bnf.fr/ark:/12148/cb11949033t",
+                    "https://www.freebase.com/m/01v1rw",
+                    "https://g.co/kg/m/01v1rw",
+                    "https://sws.geonames.org/7285728/",
+                    "http://dbpedia.org/resource/Engelberg",
+                    "http://www.wikidata.org/entity/Q64108"
+                ]
+            },
+            {
+                "about": "http://data.europeana.eu/place/78",
+                "prefLabel": {
+                    "de": [
+                        "Schweiz"
+                    ],
+                    "fi": [
+                        "Sveitsi"
+                    ],
+                    "ru": [
+                        "Швейцария"
+                    ],
+                    "pt": [
+                        "Suíça"
+                    ],
+                    "bg": [
+                        "Швейцария"
+                    ],
+                    "lt": [
+                        "Šveicarija"
+                    ],
+                    "hr": [
+                        "Švicarska"
+                    ],
+                    "lv": [
+                        "Šveice"
+                    ],
+                    "fr": [
+                        "Suisse"
+                    ],
+                    "hu": [
+                        "Svájc"
+                    ],
+                    "sk": [
+                        "Švajčiarsko"
+                    ],
+                    "sl": [
+                        "Švica"
+                    ],
+                    "ga": [
+                        "An Eilvéis"
+                    ],
+                    "ca": [
+                        "Suïssa"
+                    ],
+                    "sv": [
+                        "Schweiz"
+                    ],
+                    "mt": [
+                        "Żvizzera"
+                    ],
+                    "el": [
+                        "Ελβετία"
+                    ],
+                    "en": [
+                        "Switzerland"
+                    ],
+                    "it": [
+                        "Svizzera"
+                    ],
+                    "es": [
+                        "Suiza"
+                    ],
+                    "et": [
+                        "Šveits"
+                    ],
+                    "cs": [
+                        "Švýcarsko"
+                    ],
+                    "eu": [
+                        "Suitza"
+                    ],
+                    "pl": [
+                        "Szwajcaria"
+                    ],
+                    "da": [
+                        "Schweiz"
+                    ],
+                    "ro": [
+                        "Elveția"
+                    ],
+                    "nl": [
+                        "Zwitserland"
+                    ]
+                },
+                "altLabel": {
+                    "de": [
+                        "Schweizerische Eidgenossenschaft",
+                        "Eidgenossenschaft",
+                        "SUI",
+                        "CHE",
+                        "CH",
+                        "Confoederatio Helvetica"
+                    ],
+                    "ru": [
+                        "Svizzera",
+                        "Suisse",
+                        "Schweiz",
+                        "Швейцарская Конфедерация"
+                    ],
+                    "fi": [
+                        "Sveitsin valaliitto"
+                    ],
+                    "pt": [
+                        "Confederação Suíça",
+                        "CH"
+                    ],
+                    "bg": [
+                        "Конфедерация Швейцария",
+                        "CH"
+                    ],
+                    "lt": [
+                        "Šveicarijos Konfederacija",
+                        "CH",
+                        "Schweizerische Eidgenossenschaft"
+                    ],
+                    "lv": [
+                        "CH"
+                    ],
+                    "hr": [
+                        "Švicarska Konfederacija",
+                        "CH"
+                    ],
+                    "fr": [
+                        "Confédération helvétique",
+                        "Confédération suisse",
+                        "SUI",
+                        "Helvétie",
+                        "CHE",
+                        "CH",
+                        "La Confédération suisse"
+                    ],
+                    "hu": [
+                        "CH"
+                    ],
+                    "sk": [
+                        "CH",
+                        "Švajčiarska konfederácia"
+                    ],
+                    "sl": [
+                        "CH"
+                    ],
+                    "ga": [
+                        "CH"
+                    ],
+                    "ca": [
+                        "Confederació Helvètica",
+                        "Suissa",
+                        "Confederació Suïssa",
+                        "CH"
+                    ],
+                    "mt": [
+                        "Konfederazzjoni Żvizzera",
+                        "L-Iżvizzera"
+                    ],
+                    "el": [
+                        "Ελβετική Συνομοσπονδία",
+                        "CH"
+                    ],
+                    "en": [
+                        "Swiss Confederation",
+                        "SUI",
+                        "Suisse",
+                        "Schweiz",
+                        "Svizzera",
+                        "Swiss",
+                        "CHE",
+                        "CH",
+                        "Confoederatio Helvetica"
+                    ],
+                    "it": [
+                        "Confederazione Svizzera",
+                        "Confederazione Elvetica",
+                        "SUI",
+                        "CHE",
+                        "Elvezia",
+                        "Confoederatio Helvetica",
+                        "CH"
+                    ],
+                    "es": [
+                        "SUI",
+                        "Confederación Suiza",
+                        "Confederación Helvética",
+                        "CHE",
+                        "CH"
+                    ],
+                    "et": [
+                        "Šveitsi Konföderatsioon",
+                        "CH",
+                        "Helveetsia"
+                    ],
+                    "cs": [
+                        "CH"
+                    ],
+                    "eu": [
+                        "CH"
+                    ],
+                    "pl": [
+                        "Konfederacja Szwajcarska",
+                        "Schweiz",
+                        "Svizzera",
+                        "Schweizerische Eidgenossenschaft",
+                        "Confédération suisse",
+                        "Confederazione Svizzera",
+                        "Confederaziun svizra",
+                        "CH"
+                    ],
+                    "da": [
+                        "Svejts",
+                        "CH"
+                    ],
+                    "ro": [
+                        "Confederația Elvețiană",
+                        "CH"
+                    ],
+                    "nl": [
+                        "Zwitserse Bondsstaat",
+                        "Zwitsers Eedgenootschap",
+                        "Zwitserse Confederatie",
+                        "CH",
+                        "CHE"
+                    ]
+                },
+                "note": {
+                    "de": [
+                        "Staat in Mitteleuropa"
+                    ],
+                    "sv": [
+                        "Förbundsrepublik i Centraleuropa"
+                    ],
+                    "ru": [
+                        "Государство в Центральной Европе"
+                    ],
+                    "fi": [
+                        "Valtio Keski-Euroopassa"
+                    ],
+                    "pt": [
+                        "País na Europa Central"
+                    ],
+                    "bg": [
+                        "Държава в Западна Европа"
+                    ],
+                    "mt": [
+                        "Pajjiż fl-Ewropa Ċentrali"
+                    ],
+                    "el": [
+                        "Χώρα της δυτικοκεντρικής Ευρώπης"
+                    ],
+                    "lt": [
+                        "Mažiausia pasaulyje federacinė valstybė įsikūrusi Vidurio Europoje"
+                    ],
+                    "en": [
+                        "Country in Central Europe"
+                    ],
+                    "lv": [
+                        "Valsts Eiropā"
+                    ],
+                    "hr": [
+                        "Država u srednjoj Europi"
+                    ],
+                    "it": [
+                        "Stato dell'Europa centrale"
+                    ],
+                    "fr": [
+                        "Pays d'Europe centrale"
+                    ],
+                    "hu": [
+                        "Állam Közép-Európában"
+                    ],
+                    "es": [
+                        "País de Europa Central"
+                    ],
+                    "et": [
+                        "Riik Kesk-Euroopas"
+                    ],
+                    "cs": [
+                        "Stát ve střední Evropě"
+                    ],
+                    "sk": [
+                        "Štát v strednej Európe"
+                    ],
+                    "pl": [
+                        "Państwo w Europie Zachodniej"
+                    ],
+                    "da": [
+                        "Stat i Centraleuropa"
+                    ],
+                    "ro": [
+                        "Stat în Europa Centrală"
+                    ],
+                    "nl": [
+                        "Land in Europa"
+                    ],
+                    "ca": [
+                        "Estat alpí sense accés al mar localitzat a l'Europa central"
+                    ]
+                },
+                "latitude": 46.79856,
+                "longitude": 8.231973,
+                "owlSameAs": [
+                    "http://www.wikidata.org/entity/Q39",
+                    "http://viaf.org/viaf/154323889",
+                    "http://viaf.org/viaf/159363991",
+                    "https://d-nb.info/gnd/4053881-3",
+                    "http://id.loc.gov/authorities/names/n79062978",
+                    "http://data.bnf.fr/ark:/12148/cb11868612h",
+                    "http://data.bnf.fr/ark:/12148/cb11933332n",
+                    "http://www.idref.fr/026438658/id",
+                    "http://id.ndl.go.jp/auth/ndlna/00871917",
+                    "http://id.nlm.nih.gov/mesh/D013557",
+                    "https://www.freebase.com/m/06mzp",
+                    "https://g.co/kg/m/06mzp",
+                    "http://datos.bne.es/resource/XX451423",
+                    "https://sws.geonames.org/2658434/",
+                    "http://vocab.getty.edu/tgn/7011731",
+                    "http://id.worldcat.org/fast/1205401",
+                    "http://www.yso.fi/onto/yso/p105295",
+                    "http://babelnet.org/rdf/s00069666n",
+                    "http://zbw.eu/stw/descriptor/16972-1",
+                    "http://vocabularies.unesco.org/thesaurus/concept924",
+                    "https://libris.kb.se/nl0229c6538hjvc",
+                    "http://www.yso.fi/onto/ysa/Y105295",
+                    "http://dbpedia.org/resource/Switzerland"
+                ]
+            }
+        ],
+        "providedCHOs": [
+            {
+                "about": "/item/9200211/en_list_one_bke_0138"
+            }
+        ],
+        "proxies": [
+            {
+                "about": "/proxy/europeana/9200211/en_list_one_bke_0138",
+                "dcCoverage": {
+                    "def": [
+                        "http://data.europeana.eu/place/214338",
+                        "http://data.europeana.eu/place/78"
+                    ]
+                },
+                "dcCreator": {
+                    "def": [
+                        "http://data.europeana.eu/agent/171259"
+                    ]
+                },
+                "dcType": {
+                    "def": [
+                        "http://data.europeana.eu/concept/17"
+                    ]
+                },
+                "dctermsMedium": {
+                    "def": [
+                        "http://data.europeana.eu/concept/2092"
+                    ]
+                },
+                "proxyIn": [
+                    "/aggregation/europeana/9200211/en_list_one_bke_0138"
+                ],
+                "proxyFor": "/item/9200211/en_list_one_bke_0138",
+                "edmType": "TEXT",
+                "europeanaProxy": true
+            },
+            {
+                "about": "/proxy/provider/9200211/en_list_one_bke_0138",
+                "dcCoverage": {
+                    "def": [
+                        "Engelberg"
+                    ]
+                },
+                "dcCreator": {
+                    "def": [
+                        "Augustinus, Aurelius"
+                    ]
+                },
+                "dcDate": {
+                    "def": [
+                        "1143-1178"
+                    ]
+                },
+                "dcDescription": {
+                    "def": [
+                        "This codex contains Augustine's Retractationes (1r-73r), introduced by a richly decorated initial that extends for the whole length of the page. At the beginning of the Liber de poenitentia, on 73r, there is a smaller, but just as artistic initial with an eagle motif. The text of both works probably comes from the same hand, and is accompanied throughout by numerous rubricated lines and simpler dedicated initials. The only owner's inscription on 110v comes from a later time, but the overall design is characteristic of the volumes of the Engelberg library produced under Abbot Frowin (1143-1178)."
+                    ]
+                },
+                "dcFormat": {
+                    "def": [
+                        "110 ff., 16.0 x 11.8 cm"
+                    ]
+                },
+                "dcIdentifier": {
+                    "def": [
+                        "doi:10.5076/e-codices-bke-0138",
+                        "http://www.e-codices.unifr.ch/en/list/one/bke/0138",
+                        "Engelberg, Stiftsbibliothek, Cod. 138"
+                    ]
+                },
+                "dcLanguage": {
+                    "def": [
+                        "Latin"
+                    ]
+                },
+                "dcPublisher": {
+                    "def": [
+                        "e-codices - Virtual Manuscript Library of Switzerland"
+                    ]
+                },
+                "dcRelation": {
+                    "def": [
+                        "P. Benedictus Gottwald, Catalogus codicum manu scriptorum qui asservantur in Bibliotheca Monasterii O.S.B. Engelbergensis in Helvetia, Freiburg im Breisgau 1891, p. 141."
+                    ]
+                },
+                "dcRights": {
+                    "def": [
+                        "e-codices / Engelberg, Stiftsbibliothek (cf. http://www.e-codices.unifr.ch/en/about/terms)"
+                    ]
+                },
+                "dcSource": {
+                    "def": [
+                        "http://www.e-codices.unifr.ch/en/list/one/bke/0138"
+                    ]
+                },
+                "dcTitle": {
+                    "def": [
+                        "Engelberg, Stiftsbibliothek, Cod. 138 : Sancti Augustini liber retractationum et de poenitentia"
+                    ]
+                },
+                "dcType": {
+                    "def": [
+                        "Manuscript"
+                    ]
+                },
+                "dctermsMedium": {
+                    "def": [
+                        "Parchment"
+                    ]
+                },
+                "proxyIn": [
+                    "/aggregation/provider/9200211/en_list_one_bke_0138"
+                ],
+                "proxyFor": "/item/9200211/en_list_one_bke_0138",
+                "edmType": "TEXT",
+                "europeanaProxy": false
+            }
+        ],
+        "qualityAnnotations": [
+            {
+                "about": "/item/9200211/en_list_one_bke_0138#contentTier",
+                "created": "2019-07-17T09:52:56.486Z",
+                "target": [
+                    "/aggregation/provider/9200211/en_list_one_bke_0138"
+                ],
+                "body": "http://www.europeana.eu/schemas/epf/contentTier3"
+            },
+            {
+                "about": "/item/9200211/en_list_one_bke_0138#metadataTier",
+                "created": "2019-07-17T09:52:56.486Z",
+                "target": [
+                    "/aggregation/provider/9200211/en_list_one_bke_0138"
+                ],
+                "body": "http://www.europeana.eu/schemas/epf/metadataTier0"
+            }
+        ],
+        "services": [
+            {
+                "about": "http://www.e-codices.unifr.ch/loris/bke/bke-0138/bke-0138_001r.jp2",
+                "dctermsConformsTo": [
+                    "http://iiif.io/api/image"
+                ],
+                "doapImplements": [
+                    "http://iiif.io/api/image/2/level2.json"
+                ]
+            }
+        ],
+        "timestamp_created": "2016-09-09T12:18:33.671Z",
+        "timestamp_created_epoch": 1473423513671,
+        "timestamp_update": "2016-09-27T09:29:55.307Z",
+        "timestamp_update_epoch": 1474968595307,
+        "type": "TEXT"
+    }
+}

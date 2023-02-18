@@ -1,0 +1,23 @@
+<pico:record xmlns:pico="http://purl.org/pico/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/pico/1.0/ http://purl.org/pico/1.0/pico.xsd">
+ <dc:coverage xml:lang="IT">Primo rinascimento</dc:coverage>
+ <dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type><edm:type xmlns:edm="http://www.europeana.eu/schemas/edm/">IMAGE</edm:type>
+ <dc:rights xml:lang="IT">Foto The Andy Warhol Foundation/Art Resource/Scala, Firenze</dc:rights>
+ <dc:title xml:lang="EN">San Marco Altarpiece: predella with the Burial of Saints Cosmas and Damian</dc:title>
+ <dc:title xml:lang="IT">Pala di S. Marco: predella con la sepoltura dei SS. Cosma e Damiano</dc:title>
+ <dc:identifier>0046321</dc:identifier>
+ <dc:coverage xml:lang="EN">Early Renaissance</dc:coverage>
+ <dc:rights xml:lang="EN">Photo The Andy Warhol Foundation/Art Resource/Scala, Florence</dc:rights>
+ <dc:subject xsi:type="pico:Thesaurus">http://culturaitalia.it/pico/thesaurus/4.1#dipinti</dc:subject>
+ <dcterms:isReferencedBy xsi:type="pico:Anchor" xml:lang="EN">title=visualizza scheda esterna (en);
+URL=http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0046321&amp;posizione=1&amp;numImmagini=1&amp;prmset=on&amp;ANDOR=and&amp;xese
+arch=0046321&amp;ricerca_s=0046321&amp;SC_PROV=RR&amp;SC_Lang=ita&amp;Sort=8</dcterms:isReferencedBy>
+ <dcterms:isReferencedBy xsi:type="pico:Anchor" xml:lang="IT">title=visualizza scheda esterna (it);
+URL=http://www.scalarchives.it/web/dettaglio_immagine.asp?idImmagine=0046321&amp;posizione=1&amp;numImmagini=1&amp;prmset=on&amp;ANDOR=and&amp;xesea
+rch=0046321&amp;ricerca_s=0046321&amp;SC_PROV=RR&amp;SC_Lang=ita&amp;Sort=8</dcterms:isReferencedBy>
+ <dcterms:spatial xml:lang="EN">Museo di San Marco, Florence, Italy</dcterms:spatial>
+ <dcterms:spatial xml:lang="IT">Museo di S. Marco, Firenze, Italia</dcterms:spatial>
+ <pico:author xml:lang="IT">Beato Angelico (1387-1455)</pico:author>
+ <pico:author xml:lang="EN">Angelico, Fra (1387-1455)</pico:author>
+ <pico:preview xsi:type="pico:Anchor">title=Pala di S. Marco: predella con la sepoltura dei SS. Cosma e
+Damiano;url=http://www.scalarchives.com/scalapic/280497/c/0046321c.jpg</pico:preview>
+</pico:record>

@@ -1,0 +1,31 @@
+<ead>
+    <eadheader>
+        <eadid />
+        <filedesc />
+        <titlestmt>
+             <titleproper encodinganalog="title">Hildebertus Cenomanensis</titleproper>
+        </titlestmt>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="ISAD(G)v2">
+        <dsc>
+            <c level="item">
+                <did>
+                     
+                    <unittitle encodinganalog="3.1.2">TESTp</unittitle>
+                    
+                    <dao linktype="simple" href="http://demo.accesstomemory.org/uploads/r/wilfrid-laurier-university-archives/2/c/0/2c0293b8ab99d98cd535603a612150baa65985647d01774d502e9a60ef93b907/082712_141.jpg" role="master" actuate="onrequest" show="embed" />
+                </did>
+            </c>
+            <c level="item">
+                <did>
+                    
+                    <unittitle encodinganalog="3.1.2">2. TEST St. Looking North, Sudbury, Ontario - R.B.L. P.O. Box 394, Sudbury, Ontario, Canada</unittitle>
+                 
+                    <unitdate normal="1955/1965" encodinganalog="3.1.3">[between 1955 and 1965]</unitdate>
+                    
+                    <dao linktype="simple" href="http://demo.accesstomemory.org/uploads/r/city-of-greater-sudbury-archives/8/3/83613/030-1-2-2_141.jpg" role="master" actuate="onrequest" show="embed" />
+                </did>
+            
+        </dsc>
+    </archdesc>
+</ead>
