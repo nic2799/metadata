@@ -78,6 +78,11 @@ if Web_resource is not None:
             dc_element.text = dc_value
             proxy.append(dc_element)
     xml.append(proxy)
+  
+    
+         
+
+        
 
 with open("outpu15t.xml", "wb") as f:
     f.write(etree.tostring(xml, pretty_print=True))

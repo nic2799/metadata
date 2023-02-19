@@ -1,7 +1,7 @@
 import json
 from xml.etree import ElementTree as ET
 
-with open("iiif_bene.json") as f:
+with open("iiif_buono.json") as f:
     data = json.load(f)
 
 root = ET.Element("ead")
@@ -15,7 +15,8 @@ titleproper = ET.SubElement(titlestmt,"titleproper")
 archdesc = ET.SubElement(root, "archdesc")
 archdesc.set("level", "collection")
 archdesc.set("relatedencoding", "ISAD(G)v2")
-dsc = ET.SubElement(archdesc, "dsc")
+dsc = ET.SubElement(archdesc, "dsc", type="combined")
+
 max_url=5
 i=0
 def get_label_value(data):
@@ -29,7 +30,7 @@ def get_label_value(data):
 
     
             titleproper.text = label["title"]
-           
+           #devuu fare in modo che su dsc type =combined
 
 # call the function to extract title values and update the EAD tree
 def Search_dublincore(json_data):
@@ -79,7 +80,7 @@ for seq in data.get("sequences", []):
             image_url = image['resource']['@id']
             item = ET.SubElement(dsc, "c", level="item")
             did = ET.SubElement(item, "did")
-            unititle = ET.SubElement(did,"unititle")
+            unititle = ET.SubElement(did,"unittitle")
             if a==0:
 
               unititle.text = label["Title"]
@@ -98,5 +99,5 @@ for seq in data.get("sequences", []):
             
 
 tree = ET.ElementTree(root)
-tree.write("EAD_output15.xml")
+tree.write("EADNUOVO.xml")
 get_label_value(data)
