@@ -97,7 +97,6 @@ for seq in data.get("sequences", []):
             i+=1
              
             
-
+get_label_value(data)
 tree = ET.ElementTree(root)
 tree.write("EADNUOVO.xml")
-get_label_value(data)

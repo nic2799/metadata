@@ -60,13 +60,22 @@ xml = etree.Element("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF", nsmap=na
 # carica il file XML
 tree = ET.parse("EAD.xml")
 root = tree.getroot()
-
+ProvidedCHO = root.find(".//eadid")
+if ProvidedCHO is not None: 
+    edm_provided_cho = ProvidedCHO.attrib.get("url")
+    print(edm_provided_cho)
+    providedCHO = etree.Element(f"{{{namespaces['edm']}}}ProvidedCHO", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
+    aggregation = etree.Element(f"{{{namespaces['ore']}}}aggregation",attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
+    xml.append(providedCHO)
+    xml.append(aggregation)
+    aggregationCHO = etree.SubElement(aggregation,f"{{{namespaces['edm']}}}aggregatedCHO",attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
 # Crea il tag web resource
 Web_resource = root.find(".//dao")
 if Web_resource is not None:
     Edm_Web_resource = Web_resource.attrib.get("href")
     web_resource = etree.Element(f"{{{namespaces['edm']}}}WebResource", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": Edm_Web_resource})
     xml.append(web_resource)
+    edm_is_shown_by = etree.SubElement(aggregation,f"{{{namespaces['edm']}}}isShownBy", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": Edm_Web_resource})
  
 
 
@@ -84,5 +93,5 @@ if Web_resource is not None:
 
         
 
-with open("outpu15t.xml", "wb") as f:
+with open("outpu16t.xml", "wb") as f:
     f.write(etree.tostring(xml, pretty_print=True))
