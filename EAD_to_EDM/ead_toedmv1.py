@@ -60,38 +60,28 @@ xml = etree.Element("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF", nsmap=na
 # carica il file XML
 tree = ET.parse("EAD.xml")
 root = tree.getroot()
-ProvidedCHO = root.find(".//eadid")
-if ProvidedCHO is not None: 
-    edm_provided_cho = ProvidedCHO.attrib.get("url")
-    print(edm_provided_cho)
-    providedCHO = etree.Element(f"{{{namespaces['edm']}}}ProvidedCHO", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
-    aggregation = etree.Element(f"{{{namespaces['ore']}}}aggregation",attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
-    xml.append(providedCHO)
-    xml.append(aggregation)
-    aggregationCHO = etree.SubElement(aggregation,f"{{{namespaces['edm']}}}aggregatedCHO",attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": edm_provided_cho})
+
 # Crea il tag web resource
 Web_resource = root.find(".//dao")
 if Web_resource is not None:
     Edm_Web_resource = Web_resource.attrib.get("href")
     web_resource = etree.Element(f"{{{namespaces['edm']}}}WebResource", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": Edm_Web_resource})
     xml.append(web_resource)
-    edm_is_shown_by = etree.SubElement(aggregation,f"{{{namespaces['edm']}}}isShownBy", attrib={"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about": Edm_Web_resource})
+
  
 
 
-    # Crea il tag proxy con i vari elementi di Dublin Core
+    # Crea il tag proxy con i vari elementi di Dublin Core   # nel proxy possono esserci info in conflitto per esempio se due provider fanno riferimento allo stesso  providedCHO si genera un proxy per ogni provider che fa riferimento allo stesso oggetto reale
+
     proxy = etree.Element(f"{{{namespaces['ore']}}}proxy", nsmap=namespaces)
     for dc_key, dc_value in Search_dublincore(tree).items():
         if dc_value:
             dc_element = etree.Element(f"{{{namespaces['dc']}}}{dc_key}")
             dc_element.text = dc_value
-            proxy.append(dc_element)
+            web_resource.append(dc_element)
     xml.append(proxy)
-  
-    
-         
 
-        
+
 
 with open("outpu16t.xml", "wb") as f:
     f.write(etree.tostring(xml, pretty_print=True))
